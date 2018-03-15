@@ -4,7 +4,7 @@
 ## 使用方法 ##
 1.	git clone https://github.com/yeiamx/MaoYan_Spider.git
 2.	cd MaoYan_Spider
-3.	python(require python3.x) main.py [--offset=] [--limit=] [--result_path=]
+3.	(require python3.x)python main.py [--offset=] [--limit=] [--result_path=]
 
 ## 参数说明 ##
 *	offset为从第几条开始爬，默认为0  
